@@ -1,2 +1,2 @@
 # Machine-Learning
-This reposetory is made for Challanges of ML
+- This reposetory is made for learning of ML
